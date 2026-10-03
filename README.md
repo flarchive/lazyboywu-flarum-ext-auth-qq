@@ -2,13 +2,14 @@
 
 > **Read-only archive of released versions of lazyboywu/flarum-ext-auth-qq.** Not for installation: use [Packagist](https://packagist.org/packages/lazyboywu/flarum-ext-auth-qq) or the [upstream repository](https://github.com/lazyboywu/flarum-ext-auth-qq).
 
-**0** versions archived · Latest: [`v0.1.1`](https://github.com/flarchive/lazyboywu-flarum-ext-auth-qq/tree/archive/v0.1.1) · License: `MIT` · Flarum: `^0.1.0-beta.3`
+**2** versions archived · Latest: [`v0.1.1`](https://github.com/flarchive/lazyboywu-flarum-ext-auth-qq/tree/archive/v0.1.1) · License: `MIT` · Flarum: `^0.1.0-beta.3`
 
 ## Archived Versions
 
 | Version | Released | Flarum | Source |
 |---|---|---|---|
-| — | — | — | — |
+| `v0.1.0` | 2016-02-01 | `^0.1.0-beta.3` | [Browse](https://github.com/flarchive/lazyboywu-flarum-ext-auth-qq/tree/archive/v0.1.0) |
+| `v0.1.1` | 2016-02-02 | `^0.1.0-beta.3` | [Browse](https://github.com/flarchive/lazyboywu-flarum-ext-auth-qq/tree/archive/v0.1.1) |
 
 Catalog entry: [packages/lazyboywu-flarum-ext-auth-qq.json](https://github.com/flarchive/archive-index/blob/main/packages/lazyboywu-flarum-ext-auth-qq.json)
 
